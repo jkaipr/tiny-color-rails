@@ -4,7 +4,7 @@ require File.expand_path('../lib/tiny-color-rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Jiri Kaipr"]
   gem.email         = ["jiri.kaipr@gmail.com"]
-  gem.description   = %q{Provides TinyColor JavaScript library for your Rails application. It's a fast, small color manipulation and conversion. Source code: https://github.com/bgrins/TinyColor}
+  gem.description   = %q{Provides TinyColor JavaScript library for your Rails application. It's a fast, small color manipulation and conversion tool. Source code: https://github.com/bgrins/TinyColor}
   gem.homepage      = "https://github.com/jkaipr/tiny-color-rails"
   gem.summary       = gem.description
 
